@@ -1,7 +1,7 @@
 # E-Commerce Sales Analytics Dashboard
 
 ## Project Overview
-An interactive E-Commerce Sales Analytics Dashboard developed using Microsoft Power BI to analyze business performance and generate meaningful insights.
+E-Commerce Sales Analytics using SQL Server and Power BI | Data Analysis, Business Insights & Interactive Dashboard.
 
 ## Key Features
 - Total Revenue and Gross Profit Analysis
