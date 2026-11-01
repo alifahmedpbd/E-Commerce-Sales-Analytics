@@ -44,3 +44,8 @@ This project focuses on analyzing E-Commerce sales data using SQL Server and Mic
 - ECommerce_Retail_Analytics.pbix – Power BI Dashboard
 - SQL Queries – Data Analysis using SQL Server
 
+Author
+
+Alif Ahmed
+
+Data Analyst | Power BI | SQL | Data Visualization
