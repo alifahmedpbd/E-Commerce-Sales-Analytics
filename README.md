@@ -1,7 +1,8 @@
 # E-Commerce Sales Analytics Dashboard
 
 ## Project Overview
-E-Commerce Sales Analytics using SQL Server and Power BI | Data Analysis, Business Insights & Interactive Dashboard.
+
+This project focuses on analyzing E-Commerce sales data using SQL Server and Microsoft Power BI. SQL Server is used for data querying and analysis, while Power BI is used to create an interactive dashboard to explore sales performance, profitability, product trends, and customer behavior.
 
 ## Key Features
 - Total Revenue and Gross Profit Analysis
@@ -14,10 +15,12 @@ E-Commerce Sales Analytics using SQL Server and Power BI | Data Analysis, Busine
 - Interactive Filters and Drillthrough
 
 ## Tools & Technologies
-- Microsoft Power BI
-- DAX
-- Power Query
 
+- **SQL Server** – Data Querying and Analysis
+- **Microsoft Power BI** – Data Visualization
+- **DAX** – Measures and Calculations
+- **Power Query** – Data Transformation
+  
 ## Project Objectives
 - Analyze overall sales performance.
 - Identify top-performing products and categories.
@@ -37,5 +40,7 @@ E-Commerce Sales Analytics using SQL Server and Power BI | Data Analysis, Busine
 ![Customer Analysis](Customer_Analysis.jpg)
 
 ## Project Files
-Power BI Dashboard (.pbix)
+
+- ECommerce_Retail_Analytics.pbix – Power BI Dashboard
+- SQL Queries – Data Analysis using SQL Server
 
