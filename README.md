@@ -26,7 +26,15 @@ An interactive E-Commerce Sales Analytics Dashboard developed using Microsoft Po
 - Support data-driven business decisions.
 
 ## Dashboard Preview
-Screenshots will be added soon.
+
+### E-Commerce Overview
+![Overview](Ecommerce_Overview.jpg)
+
+### Sales Analysis
+![Sales Analysis](Sales_Analysis.jpg)
+
+### Customer Analysis
+![Customer Analysis](Customer_Analysis.jpg)
 
 ## Project Files
 Power BI Dashboard (.pbix)
